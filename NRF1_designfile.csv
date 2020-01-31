@@ -1,9 +1,0 @@
-group,replicate,fastq_1,fastq_2,antibody,control,fastq1_url,fastq2_url
-WT_NRF1_IP,1,ENCFF002DPA,ENCFF002EFX,NRF1-human,WT_INPUT,https://www.encodeproject.org/files/ENCFF002DPA/@@download/ENCFF002DPA.fastq.gz,https://www.encodeproject.org/files/ENCFF002EFX/@@download/ENCFF002EFX.fastq.gz
-WT_NRF1_IP,2,ENCFF002DPF,ENCFF002EFZ,NRF1-human,WT_INPUT,https://www.encodeproject.org/files/ENCFF002DPF/@@download/ENCFF002DPF.fastq.gz,https://www.encodeproject.org/files/ENCFF002EFZ/@@download/ENCFF002EFZ.fastq.gz
-WT_NRF1_IP,3,ENCFF002DPB,ENCFF002DUE,NRF1-human,WT_INPUT,https://www.encodeproject.org/files/ENCFF002DPB/@@download/ENCFF002DPB.fastq.gz,https://www.encodeproject.org/files/ENCFF002DPD/@@download/ENCFF002DPD.fastq.gz
-WT_NRF1_IP,4,ENCFF002DPD,ENCFF002EGB,NRF1-human,WT_INPUT,https://www.encodeproject.org/files/ENCFF002DPD/@@download/ENCFF002DPD.fastq.gz,https://www.encodeproject.org/files/ENCFF002EGB/@@download/ENCFF002EGB.fastq.gz
-WT_INPUT,1,ENCFF002EFF,ENCFF002EFH,,,https://www.encodeproject.org/files/ENCFF002EFF/@@download/ENCFF002DPD.fastq.gz,https://www.encodeproject.org/files/ENCFF002EFH/@@download/ENCFF002EGB.fastq.gz
-WT_INPUT,2,ENCFF002EFA,ENCFF002EFD,,,https://www.encodeproject.org/files/ENCFF002EFA/@@download/ENCFF002DPD.fastq.gz,https://www.encodeproject.org/files/ENCFF002EFD/@@download/ENCFF002DPD.fastq.gz
-WT_INPUT,3,ENCFF002EFF,ENCFF002EFH,,,https://www.encodeproject.org/files/ENCFF002EFF/@@download/ENCFF002DPD.fastq.gz,https://www.encodeproject.org/files/ENCFF002EFH/@@download/ENCFF002EGB.fastq.gz
-WT_INPUT,4,ENCFF002EFA,ENCFF002EFD,,,https://www.encodeproject.org/files/ENCFF002EFA/@@download/ENCFF002DPD.fastq.gz,https://www.encodeproject.org/files/ENCFF002EFD/@@download/ENCFF002DPD.fastq.gz
