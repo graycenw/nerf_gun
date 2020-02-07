@@ -1,4 +1,5 @@
 .fastq
+.fastq.gz
 .fasta
 .bam
 .cram
