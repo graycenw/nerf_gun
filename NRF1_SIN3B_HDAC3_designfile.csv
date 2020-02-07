@@ -1,8 +1,8 @@
 group,replicate,fastq_1,fastq_2,antibody,control
-WT_NRF1_IP1,1,fastq/ENCFF002DPA.fastq.gz,fastq/ENCFF002EFX.fastq.gz,NRF1-human,WT_INPUT1
-WT_NRF1_IP2,1,fastq/ENCFF002DPF.fastq.gz,fastq/ENCFF002EFZ.fastq.gz,NRF1-human,WT_INPUT2
-WT_NRF1_IP1,2,fastq/ENCFF002DPB.fastq.gz,fastq/ENCFF002DUE.fastq.gz,NRF1-human,WT_INPUT1
-WT_NRF1_IP2,2,fastq/ENCFF002DPD.fastq.gz,fastq/ENCFF002EGB.fastq.gz,NRF1-human,WT_INPUT2
+WT_NRF1_IP,1,fastq/ENCFF002DPA.fastq.gz,fastq/ENCFF002EFX.fastq.gz,NRF1-human,WT_INPUT1
+WT_NRF1_IP,2,fastq/ENCFF002DPF.fastq.gz,fastq/ENCFF002EFZ.fastq.gz,NRF1-human,WT_INPUT2
+WT_NRF1_IP,3,fastq/ENCFF002DPB.fastq.gz,fastq/ENCFF002DUE.fastq.gz,NRF1-human,WT_INPUT1
+WT_NRF1_IP,4,fastq/ENCFF002DPD.fastq.gz,fastq/ENCFF002EGB.fastq.gz,NRF1-human,WT_INPUT2
 WT_INPUT1,1,fastq/ENCFF002EFF.fastq.gz,fastq/ENCFF002EFH.fastq.gz,,
 WT_INPUT2,1,fastq/ENCFF002EFA.fastq.gz,fastq/ENCFF002EFD.fastq.gz,,
 WT_SIN3B_IP,1,fastq/ENCFF526SSV.fastq.gz,fastq/ENCFF953OIR.fastq.gz,SIN3B-human,WT_INPUT3
