@@ -4,7 +4,7 @@ WT_NRF1_IP,2,fastq/ENCFF002DPF.fastq.gz,fastq/ENCFF002EFZ.fastq.gz,NRF1-human,NR
 WT_NRF1_IP,3,fastq/ENCFF002DPB.fastq.gz,fastq/ENCFF002DUE.fastq.gz,NRF1-human,NRF1_INPUT
 WT_NRF1_IP,4,fastq/ENCFF002DPD.fastq.gz,fastq/ENCFF002EGB.fastq.gz,NRF1-human,NRF1_INPUT
 NRF1_INPUT,1,fastq/ENCFF002EFF.fastq.gz,fastq/ENCFF002EFH.fastq.gz,,
-NRF1_INPUT2,2,fastq/ENCFF002EFA.fastq.gz,fastq/ENCFF002EFD.fastq.gz,,
+NRF1_INPUT,2,fastq/ENCFF002EFA.fastq.gz,fastq/ENCFF002EFD.fastq.gz,,
 WT_SIN3B_IP,1,fastq/ENCFF526SSV.fastq.gz,fastq/ENCFF953OIR.fastq.gz,SIN3B-human,SINB3_HDAC3_INPUT
 WT_SIN3B_IP,2,fastq/ENCFF044ZTQ.fastq.gz,fastq/ENCFF119GEQ.fastq.gz,SIN3B-human,SINB3_HDAC3_INPUT
 SINB3_HDAC3_INPUT,1,fastq/ENCFF498JMO.fastq.gz,fastq/ENCFF502GTS.fastq.gz,,
