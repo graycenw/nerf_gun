@@ -17,7 +17,7 @@ module load singularity/3.1.1
 
 nextflow run nf-core/chipseq -r 1.1.0 \
 -profile singularity \
---input NRF1_designfile.csv.csv \
+--input NRF1_SIN3B_HDAC3_designfile.csv \
 --fasta /Shares/rinn_class/data/genomes/human/gencode/v32/GRCh38.p13.genome.fa \
 --gtf /Shares/rinn_class/data/genomes/human/gencode/v32/gencode.v32.annotation.gtf \
 --macs_gsize 2.7e9 
