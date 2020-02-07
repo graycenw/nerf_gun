@@ -4,13 +4,9 @@ https://www.encodeproject.org/files/ENCFF498JMO/@@download/ENCFF498JMO.fastq.gz
 https://www.encodeproject.org/files/ENCFF259GQA/@@download/ENCFF259GQA.fastq.gz
 https://www.encodeproject.org/files/ENCFF942ZRE/@@download/ENCFF942ZRE.fastq.gz
 https://www.encodeproject.org/files/ENCFF770NDG/@@download/ENCFF770NDG.fastq.gz
-https://www.encodeproject.org/files/ENCFF498JMO/@@download/ENCFF498JMO.fastq.gz
-https://www.encodeproject.org/files/ENCFF259GQA/@@download/ENCFF259GQA.fastq.gz
 https://www.encodeproject.org/files/ENCFF953OIR/@@download/ENCFF953OIR.fastq.gz
 https://www.encodeproject.org/files/ENCFF119GEQ/@@download/ENCFF119GEQ.fastq.gz
 https://www.encodeproject.org/files/ENCFF502GTS/@@download/ENCFF502GTS.fastq.gz
 https://www.encodeproject.org/files/ENCFF837MIV/@@download/ENCFF837MIV.fastq.gz
 https://www.encodeproject.org/files/ENCFF908SKY/@@download/ENCFF908SKY.fastq.gz
 https://www.encodeproject.org/files/ENCFF369MSV/@@download/ENCFF369MSV.fastq.gz
-https://www.encodeproject.org/files/ENCFF502GTS/@@download/ENCFF502GTS.fastq.gz
-https://www.encodeproject.org/files/ENCFF837MIV/@@download/ENCFF837MIV.fastq.gz
