@@ -1,0 +1,8 @@
+b4770ffe49382961d13fc002c7bb7f85    https://www.encodeproject.org/files/ENCFF002DPA/@@download/ENCFF002DPA.fastq.gz
+792c3680f9eb5e479c1987927e65f22e    https://www.encodeproject.org/files/ENCFF002DPF/@@download/ENCFF002DPF.fastq.gz
+e7a35dff04c18e373eaef6e90d73d8db    https://www.encodeproject.org/files/ENCFF002EFX/@@download/ENCFF002EFX.fastq.gz
+445cc7cbda8e80e9bbe5bfaeca1f709b    https://www.encodeproject.org/files/ENCFF002EFZ/@@download/ENCFF002EFZ.fastq.gz
+2d32499003243f4f1d4640252295c05e    https://www.encodeproject.org/files/ENCFF002DPB/@@download/ENCFF002DPB.fastq.gz
+3ea062eaccc7dd99e36ef3c38699d8a2    https://www.encodeproject.org/files/ENCFF002DPD/@@download/ENCFF002DPD.fastq.gz
+97f8017d95026b3e924331791c468f2f    https://www.encodeproject.org/files/ENCFF002DUE/@@download/ENCFF002DUE.fastq.gz
+ff3a614ac05fb9c01842ebdcd19e1731    https://www.encodeproject.org/files/ENCFF002EGB/@@download/ENCFF002EGB.fastq.gz
